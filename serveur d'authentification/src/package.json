@@ -29,7 +29,7 @@
         "pmx": "^0.6.8",
         "request": "^2.74.0",
         "sendgrid": "^4.7.1",
-        "sequelize": "^3.27.0",
+        "sequelize": "^5.21.5",
         "tedious": "^1.13.2",
         "textmagic-rest-client": "^1.0.9",
         "twilio": "^3.13.0",
